@@ -33,7 +33,7 @@ Request body:
 }
 ```
 
--**User login**:
+- **User login**:
 ```bash
 POST /user/login
 ```
@@ -46,12 +46,12 @@ Request body:
 ```
 <h2>Bets</h2>
 
--**Get all bets**:
+- **Get all bets**:
 ```bash
 GET /bet
 ```
 
--**Create a new bet:**
+- **Create a new bet:**
 ```bash
 POST /bet
 ```
